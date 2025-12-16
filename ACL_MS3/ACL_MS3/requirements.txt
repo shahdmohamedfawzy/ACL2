@@ -1,0 +1,4 @@
+huggingface_hub
+langchain
+langchain-community
+langchain-huggingface
